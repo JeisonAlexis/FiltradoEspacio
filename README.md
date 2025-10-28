@@ -73,7 +73,7 @@ python -m pip install opencv-python numpy matplotlib numba requests
 
 <div style="padding:10px;border-radius:8px;background:#f7f7f7;">
       <strong>🔟 Paso 10:</strong>
-      <p style="margin:.25rem 0 0 0;">Siga el flujo de ejecucion del Jupyter pero ten en cuenta que en la variable "carpeta" debe estar tu ruta de la carpeta de imagenes <strong>Ej: carpeta = r"C:\Users\jeyco\Documents\GitHub\FiltradoEspacio\images\imagenes"</strong>.</p>
+      <p style="margin:.25rem 0 0 0;">Siga el flujo de ejecucion del Jupyter pero ten en cuenta que en la variable "carpeta" debe estar tu ruta de la carpeta de imagenes <strong>Ej: carpeta = r"C:\Users\j*****\Documents\GitHub\FiltradoEspacio\images\imagenes"</strong>.</p>
 </div>
 
 <div style="padding:10px;border-radius:8px;background:#f7f7f7;">
